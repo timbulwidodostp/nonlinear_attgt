@@ -3,7 +3,6 @@
 # IG : @olahdatasemarang_
 # Nonlinear Staggered Difference-in-Differences (DiD) Group-Time ATT Estimation Use nonlinear_attgt (NonlinearDiD) With (In) R Software
 install.packages("NonlinearDiD")
-
 library("NonlinearDiD")
 # Estimation Nonlinear Staggered Difference-in-Differences (DiD) Group-Time ATT Estimation Use nonlinear_attgt (NonlinearDiD) With (In) R Software
 nonlinear_attgt = read.csv("https://raw.githubusercontent.com/timbulwidodostp/nonlinear_attgt/main/nonlinear_attgt/nonlinear_attgt.csv",sep = ";")
