@@ -1,6 +1,8 @@
 # nonlinear_attgt
 Nonlinear Staggered Difference-in-Differences (DiD) Group-Time ATT Estimation Use nonlinear_attgt (NonlinearDiD) With (In) R Software
 
+https://www.youtube.com/watch?v=-iv52F2UT4w
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
